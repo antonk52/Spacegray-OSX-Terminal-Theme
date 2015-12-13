@@ -25,8 +25,4 @@ Now set the profile as "Default" and you should be good!
 ![Settings](https://github.com/tannadev/Spacegray-OSX-Terminal-Theme/blob/master/images/settings.png)
 
 ##### Extra Info:
-I am using a downloaded font called Droid Sans Mono
-
-I am also using oh-my-zsh for zsh instead of the default shell
-
-
+Forked to have the same font as Basic theme
